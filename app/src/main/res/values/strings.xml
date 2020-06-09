@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="dollar">Доллар</string>
+    <string name="euro">Евро</string>
+    <string name="rouble">Рубль</string>
+    <string name="zero">0</string>
+    <string name="hint">0</string>
+    <string name="done">Конвертировать</string>
+</resources>
